@@ -1,0 +1,2 @@
+# qrgenerator
+qrgeneratorjs
